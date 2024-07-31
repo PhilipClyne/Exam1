@@ -1,0 +1,79 @@
+.chemicals-table {
+  width: 60%;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  border-radius: 5px;
+  border: 2px solid black;
+  overflow-x: auto;
+  padding: 25px;
+  background: white;
+}
+
+.chemical-table th,
+.chemical-table td {
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.chemical-table th {
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+}
+
+.chemical-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.title {
+  font-size: 50px;
+  background: white;
+  width: 500px;
+  border-radius: 25px;
+  margin: 0 auto;
+  text-align: center;
+}
+.input-section {
+  text-align: center;
+  margin: 0 auto;
+  padding: 25px;
+}
+.SearchBar {
+  text-align: center;
+  margin: 0 auto;
+}
+.input-text {
+  text-align: center;
+  padding: 5px;
+  width: 250px;
+  margin: 0 10px;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+button {
+  border: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  margin: 25px;
+}
+
+button:focus {
+  outline: none;
+}
+
+.container {
+  margin-top: 20px;
+}
