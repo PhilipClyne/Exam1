@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Exam1/static/css/main.a3ab4f88.css",
+    "main.js": "/Exam1/static/js/main.045cdcfc.js",
+    "static/media/PowerPoint-Chemistry-Background.jpg": "/Exam1/static/media/PowerPoint-Chemistry-Background.2e5141af0a4474759178.jpg",
+    "index.html": "/Exam1/index.html",
+    "main.a3ab4f88.css.map": "/Exam1/static/css/main.a3ab4f88.css.map",
+    "main.045cdcfc.js.map": "/Exam1/static/js/main.045cdcfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ab4f88.css",
+    "static/js/main.045cdcfc.js"
+  ]
+}
